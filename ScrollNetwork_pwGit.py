@@ -35,7 +35,7 @@ def main():
         page = context.new_page()
 
         # Define the base URL and BVIDs
-        base_url = 'https://demo.invibes.com/2022/refinery29.html?BVID='
+        base_url = 'https://demo.xxxx.com/page.html?BVID='
         valuesBvid = ['32']
         pattern = r'.xxxx/Stat/gb.json.*1051'
 

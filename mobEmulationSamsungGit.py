@@ -34,7 +34,7 @@ options.add_argument('--ignore-certificate-errors')
 driver = webdriver.Chrome(options=options)
 
 #define the url to load and the BVIDs array
-base_url = 'https://demo.invibes.com/2022/refinery29.html?BVID='
+base_url = 'https://demo.xxxx.com/page.html?BVID='
 valuesBvid = ['32', '34', '794022']
 
 for value in valuesBvid:
